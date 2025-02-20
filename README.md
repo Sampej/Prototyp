@@ -1,1 +1,1 @@
-En prototyp byggd med hjälp av Figma för att simulera ett lånesystem.
+En prototyp byggd i Figma för att simulera ett lånesystem.
